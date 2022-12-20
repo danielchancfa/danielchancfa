@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an equity analyst in Alphalex Capital<br>👯 I’m a hobbyist programmer <br>🤝 I’m a constant learner. I learn programming to improve my problem-solving skills and efficiency<br>🌱 I’m currently learning machine learning and pytorch, Blockchain and Solidity
+🔭 I’m currently an equity analyst<br>👯 I’m a hobbyist programmer <br>📈 I love trading. <br>🤝 I’m a constant learner. I learn programming to improve my problem-solving skills and efficiency<br>🌱 I’m currently learning machine learning and pytorch, Blockchain and Solidity
 
 
 ## 🌐 Socials:
