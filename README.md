@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m a interested in trading, machine learning and data analytics.🤝<br> I’m a constant learner. I learn programming to improve my problem-solving skills and efficiency<br>🌱 I’m currently learning machine learning and pytorch, Blockchain and Solidity.<br>🤞 I practice my skills in [exercism](https://exercism.org/profiles/danielchancfa).
+👯 I’m a interested in trading, machine learning and data analytics.🤝<br>📖 I’m a constant learner. I learn programming to improve my problem-solving skills and efficiency<br>🌱 I’m currently learning machine learning and pytorch, Cloud computing on AWS, Blockchain and Solidity.<br>🤞 I practice my skills in [exercism](https://exercism.org/profiles/danielchancfa).
 
 
 ## 🌐 Socials:
