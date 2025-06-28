@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m a Master of Science in Computer Science student.<br>🤞 I am an AWS Certified Cloud Practitioner, currently on my way to becoming an AWS Certified Data Engineer and AWS Certified Developer. <br>👯 I'm interested in trading, machine learning, and data analytics as well. <br>🌱  I’m currently learning machine learning and PyTorch, cloud computing on AWS, and blockchain technology including Solidity.
+📖 I’m a Master of Science in Computer Science student.<br>
 
 
 # 💻 Tech Stack:
